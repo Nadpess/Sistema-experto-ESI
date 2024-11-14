@@ -24,7 +24,7 @@ privada de la vida en el desarrollo de las relaciones sociales
 composiciones de los grupos sociales elementales, su transformación
 en las sociedades
   
-    **  1. Visibiliza los roles de género en la familia:** Se refiere a la
+  **  1. Visibiliza los roles de género en la familia:** Se refiere a la
 atención de las relaciones intra familiares y a las características,
 actividades y espacios asignados socialmente a varones y
 mujeres dentro de dicho ámbito
