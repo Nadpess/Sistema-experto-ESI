@@ -1,0 +1,91 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento de ESI para Ciencias Sociales",
+  "entries": [
+    {
+      "name": "Presentar oportunidades y resistencias",
+      "description": "Cuando ponemos en contexto de género nos permitimos observar cuáles son las condiciones que tienen las personas para el desarrollo de sus actividades. Aquí podemos preguntarnos, ¿quiénes son estas mujeres que escriben', ¿en qué condiciones materiales y simbólicas escriben? ¿Qué oportunidades y qué resistencias hubo a su escritura?. Esto nos invita pensar cuales son las condiciones actuales de producción intelectual y artística ",
+      "props": [
+        "Se trabaja con textos fuente",
+        "Se trabaja con textos de autoras mujeres ",
+        "Se pone contexto de género"
+      ]
+    },
+    {
+      "name": "Presentar movimiento de época",
+      "description": "Los movimientos de época nos permiten observar los contextos sociales en los que se desarrollan determinados eventos. A lo largo de la historia múltiples grupos sociales participaron de las transformaciones. Se posibilitan aquí las preguntas ¿Reconocemos movimientos en las épocas?¿Cuáles?¿Cómo lograron sus objetivos?¿Esos movimientos, ampliaron derechos?¿Somos parte de algún movimiento?",
+      "props": [
+        "Se trabaja con textos fuente",
+        "Se trabaja con textos de autoras mujeres ",
+        "Se pone contexto de género"
+      ]
+    },
+    {
+      "name": "Incorporar textos de mujeres",
+      "description": "Esta recomendacionón de la ESI atiende a la divulgación de textos fuentes de autoras mujeres en las clases. Puede encontrarse diferentes repositorios en la web como https://www.cultura.gob.ar/las-mujeres-que-construyeron-la-patria_6279/ ",
+      "props": [
+          "Se trabaja con textos fuente"
+      ]
+    },
+    {
+      "name": "Visibilizar mujeres en la historia",
+      "description": "Esta recomendación de la ESI intenta visibilizar en las efemérides la participación de las mujeres en los eventos conmemorados. Pueden incorporarse al reconocer las grandes figuras o las condiciones de la mayoría de ellas en la época estudida. Podemos guiarnos por las preguntas ¿Cuántas mujeres importantes recupera nuestra historia?¿En qué momentos vivieron?¿Qué eventos las hicieron conocidas?¿Cuales son las mujeres importantes en la actualidad y por qué?¿Somos todas las personas constructoras de la historia?",
+      "props": [
+              "Se trabaja con efemérides"
+      ]
+    },
+    {
+      "name": "Concepto: Trabajo no remunerado",
+      "description": "Esta recomendación de la ESI invita a trabajar con el concepto de trabajo no remunerado en caso de que se aborde el análisis del ámbito familiar. Se recomienda trabajar con el material disponible en https://www.educ.ar/recursos/152371/trabajo-no-remunerado-y-uso-del-tiempo. Además se pueden plantear preguntas como ¿Sabemos que hay trabajo que no se paga?¿Podria pagarse ese trabajo?¿Por qué?¿Qué otras ideas y estereotipos de género asociamos al concepto?",
+      "props": [
+        "Se trabaja con el ámbito privado",
+        "Se trabaja la noción de familia",
+        "Visibiliza roles de género en la familia"
+      ]
+    },
+    {
+      "name": "Trabajar roles de género",
+      "description": "Esta recomendación de la ESI invita a trabajar los roles de género en caso de que se aborde el análisis del ámbito familiar. Nos guían las preguntas ¿Podemos hacer lo mismo varones y mujeres en las casas?¿Por qué?¿Todas las familias son iguales?¿La forma en la que actuamos en las casas se observa también afuera de ella?. Se recomienda https://www.educ.ar/recursos/157692 ",
+      "props": [
+        "Se trabaja con el ámbito privado",
+        "Se trabaja la noción de familia"
+              ]
+    }, 
+    {
+      "name": "Trabajar vida privada",
+      "description": "Esta recomendación de la ESI invita a trabajar los aspectos de la vida privada que pueden asociarse a las temáticas estudiadas en las ciencias sociales",
+      "props": [
+        "Se trabaja con el ámbito privado"
+      ]
+    },
+    {
+      "name": "Concepto: Techo de cristales",
+      "description": "Esta recomendación de la ESI invita a trabajar con el concepto de techo de cristal en caso de que se aborde el análisis del ámbito público",
+      "props": [
+        "Se trabaja el ámbito público",
+        "Visibiliza las desigualdades en el ámbito público político"
+      ]
+    },
+    {
+      "name": "Trabajar vida política",
+      "description": "Esta recomendación de la ESI invita a trabajar los aspectos de la vida pública política que pueden asociarse a las temáticas estudiadas en las ciencias sociales",
+      "props": [
+        "Se trabaja el ámbito público"
+      ]
+    },
+    {
+      "name": "Concepto: división sexual del trabajo",
+      "description": "Esta recomendación de la ESI invita a trabajar el cocepto de división sexual del trabajo como un aspecto de la vida económica",
+      "props": [
+        "Visibiliza las desigualdades en la economía"
+      ]
+    },
+    {
+      "name": "Trabajar vida económica",
+      "description": "Esta recomendación de la ESI invita a trabajar los aspectos de la vida económica que pueden asociarse a las temáticas estudiadas en las ciencias sociales",
+      "props": [
+
+      ]
+    }
+  ]
+}
