@@ -2,6 +2,7 @@
 ------------------------
 Este sistema experto requiere de un conocimiento moderado de python, y se desarrolla tomando como ejemplos otras experiencias semejantes como:
   - https://github.com/ychavoya/sistema-experto-python/tree/main/experto_general
+ 
 Se incorporan aquí aprendizajes de la asignatura Desarrollo de sistemas de IA de la Tecnicatura en Ciencia de datos e inteligencia artificial del Politécnico Malvina Argentinas.
 
 ###  Pasos generales para la ejecución
