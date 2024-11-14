@@ -45,9 +45,8 @@ Ejecutamos los siguientes comandos en este orden:
 
 ### Fuentes del código
 
-[- https://github.com/ychavoya/sistema-experto-python/tree/main/experto_general]
-
-[https://github.com/emi2x31/CultivosDePlantasFrutales/tree/main]
+    [https://github.com/ychavoya/sistema-experto-python/tree/main/experto_general]
+    [https://github.com/emi2x31/CultivosDePlantasFrutales/tree/main]
 -----------------------
 Organización del proyecto
 ------------
