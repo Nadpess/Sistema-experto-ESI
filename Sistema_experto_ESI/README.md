@@ -35,13 +35,13 @@ Desde la consola en el ambiente de api se ejecuta:
 
 Ejecutamos los siguientes comandos en este orden:
 
-  -cd frontend
+    -cd frontend
   
-  -cd frontend
+    -cd frontend
   
-  -npm install
+    -npm install
   
-  -npm start
+    -npm start
 
 ### Fuentes del código
 
