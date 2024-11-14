@@ -34,13 +34,14 @@ Se instala node para usar como frontend React.
 Desde la consola en el ambiente de api se ejecuta:
 
 Ejecutamos los siguientes comandos en este orden:
-  - cd frontend
 
-  - cd frontend
+  -cd frontend
   
-  - npm install
+  -cd frontend
   
-  - npm start
+  -npm install
+  
+  -npm start
 
 ### Fuentes del código
 
