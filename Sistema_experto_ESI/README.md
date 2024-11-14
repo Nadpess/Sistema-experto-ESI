@@ -17,15 +17,15 @@ Se incorpora el framework de Fastapi.
 
   Se instala desde terminal con:
   
-    -pip install fastapi
+    pip install fastapi
     
-    -pip install uvicorn
+    pip install uvicorn
   
   Luego se ejecuta en ambiente api
   
-    -python -m venv fastapi-env
+    python -m venv fastapi-env
     
-    -fastapi-env\Scripts\activate
+    fastapi-env\Scripts\activate
 
 Se instala node para usar como frontend React.
 
@@ -35,13 +35,13 @@ Desde la consola en el ambiente de api se ejecuta:
 
 Ejecutamos los siguientes comandos en este orden:
 
-    -cd frontend
+    cd frontend
   
-    -cd frontend
+    cd frontend
   
-    -npm install
+    npm install
   
-    -npm start
+    npm start
 
 ### Fuentes del código
 
