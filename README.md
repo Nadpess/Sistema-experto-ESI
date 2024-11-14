@@ -24,25 +24,19 @@ contemplaron los Lineamientos curriculares para la Educación Sexual Integral y 
 Nivel Secundario.
 
 -----------------------
-Project Organization
+Organización del proyecto
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- ....
     ├── README.md          <- README. 
     ├── data
     │   ├── external       <- Datos de fuentes externas.
-    │   │   └── raw        <- Datos originales.
     │
-    ├── docs               <- Documentos descriptivos del proyecto.
-    │
-    ├── models             <- Modelos realizados
-    │
-    ├── notebooks          <- Jupyter notebooks.
+    ├── docs               <- Documentos descriptivos del proyecto. Entregas de actividades para Desarrollo de sist. de IA.
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials. Manuales de códigos.
+    ├── sistema experto    <- Carpeta con documentos y desarrollo de sistema experto, API y frontend.
     │
     ├── reports            <- Reporte final. 
-        │
     ├── requirements.txt   <- Requerimientos para la reproducción del modelo. 
     │
