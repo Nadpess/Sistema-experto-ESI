@@ -9,7 +9,7 @@ crónicas o textos redactados por personas referentes en la temática
   **i. Se trabaja con textos de mujeres:** Refiere a si en la bibliografía se
 seleccionan texto de mujeres
 
-    1.** Se pone contexto de género:** Refiere a si en esa visibilización se
+  1.** Se pone contexto de género:** Refiere a si en esa visibilización se
 pone en contexto la relación de género existente y los
 movimientos por los derechos que existían en la época abordada.
 
